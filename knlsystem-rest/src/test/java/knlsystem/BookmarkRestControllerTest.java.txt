@@ -1,5 +1,10 @@
-package bookmarks;
+package knlsystem;
 
+import knlsystem.Application;
+import knlsystem.Account;
+import knlsystem.BookmarkRepository;
+import knlsystem.AccountRepository;
+import knlsystem.Bookmark;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
